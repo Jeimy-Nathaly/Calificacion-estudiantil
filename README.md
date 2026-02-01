@@ -1,6 +1,6 @@
 ### ✨ PLANTILLA README – GitHub ✨
 #####  Nombre del Proyecto: 
-Manejo de Archivos de Texto y Validaciones en C#
+Calificación estudiantil
 
 ### Descripción
 
